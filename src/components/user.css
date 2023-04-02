@@ -1,0 +1,16 @@
+.user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 150px;
+    height: 150px;
+    color: black;
+    margin: 10px;
+}
+
+.user:hover {
+    width: 160px;
+    height: 160px;
+}

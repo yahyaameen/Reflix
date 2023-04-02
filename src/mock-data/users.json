@@ -1,0 +1,6 @@
+{
+    "users": [
+        { "userName": "Yahya", "backgroundColor": "yellow" },
+        { "userName": "Omar", "backgroundColor": "blue" }
+    ]
+}
